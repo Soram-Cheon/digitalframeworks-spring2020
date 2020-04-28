@@ -1,7 +1,7 @@
 
-# Primary Election and confirmed cases by state 
+# Primary Election and coronavirus confirmed cases by state 
 
-## President Trump declared a national emergency on March 13, 2020. After that, presidential primary elections happened in four states: Arizona, Florida, Illinois and Wisconsin. 
+## President Trump declared a national emergency due to COVID-19 on March 13, 2020. After that, presidential primary elections happened in four states: Arizona, Florida, Illinois and Wisconsin. 
 
 #### •	I was wondering if there would be any change in number; if four the states have higher, lower, or about the same confirmed cases before and after the election.
 #### •	And, I’d like to find if there is any correlation between state holding its primary election during coronavirus pandemic and the number of confirmed cases in each state
