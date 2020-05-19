@@ -25,18 +25,18 @@ Gasoline, unleaded midgrade|-17.5
 ### import pandas as pd
 
 ### [32]:df = pd.read_csv('/Users/SORAM/Downloads/groceryprices.csv')
-### df.head(10)
+ df.head(10)
 ### [32]:Expenditure Category	relative_importance	percent_change	adjusted_effect	standard error, median price change	date	PC
-### 0	All items	100.000	-0.8	NaN	0.04	S-Dec. 2008	-0.8
-### 1	Food	13.862	1.5	0.206	0.07	L-Jan. 1990	1.5
-### 2	Food at home	7.652	2.6	0.197	0.12	L-Feb. 1974	2.8
-### 3	Cereals and bakery products	0.989	2.9	0.028	0.30	L-EVER	-
-### 4	Cereals and cereal products	0.304	1.6	0.005	0.54	L-Dec. 2010	1.7
-### 5	Flour and prepared flour mixes	0.042	1.3	0.001	0.83	L-Feb. 2018	1.3
-### 6	Breakfast cereal(4)	0.140	1.5	0.002	0.74	S-Feb. 2020	-0.8
-### 7	Rice, pasta, cornmeal(4)	0.123	2.5	0.003	0.98	L-Jan. 2015	3.4
-### 8	Rice(4)(5)(6)	NaN	3.6	NaN	1.14	L-Aug. 2008	3.8
-### 9	Bakery products(4)	0.684	3.1	0.021	0.36	L-EVER	-
+0	All items	100.000	-0.8	NaN	0.04	S-Dec. 2008	-0.8
+1	Food	13.862	1.5	0.206	0.07	L-Jan. 1990	1.5
+2	Food at home	7.652	2.6	0.197	0.12	L-Feb. 1974	2.8
+3	Cereals and bakery products	0.989	2.9	0.028	0.30	L-EVER	-
+4	Cereals and cereal products	0.304	1.6	0.005	0.54	L-Dec. 2010	1.7
+5	Flour and prepared flour mixes	0.042	1.3	0.001	0.83	L-Feb. 2018	1.3
+6	Breakfast cereal(4)	0.140	1.5	0.002	0.74	S-Feb. 2020	-0.8
+7	Rice, pasta, cornmeal(4)	0.123	2.5	0.003	0.98	L-Jan. 2015	3.4
+8	Rice(4)(5)(6)	NaN	3.6	NaN	1.14	L-Aug. 2008	3.8
+9	Bakery products(4)	0.684	3.1	0.021	0.36	L-EVER	-
 
 ### [33]:df.shape
 ### [33]:
